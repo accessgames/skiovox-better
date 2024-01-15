@@ -5,8 +5,7 @@
 
 body {
   padding: 8px;
-  background: #212121;
-  color: #ffffff;
+   background-image: url("assets/placeholder.img");
 }
 
 .top-left {
